@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"53e802e3-cfac-4085-94d1-6f2095c7c99f","feature":"E-commerce Website Test","scenario":"User adds the third book to the cart","start":1705668032915,"group":1,"content":"","tags":"","end":1705668051199,"className":"passed"},{"id":"13d45535-6ac4-42bf-9fda-5050d100114a","feature":"E-commerce Website Test","scenario":"User confirms all books with \"AddToCart\" button","start":1705667973334,"group":1,"content":"","tags":"","end":1705668032876,"className":"passed"},{"id":"87539c9a-c96c-42fa-9333-b26661aeec46","feature":"E-commerce Website Test","scenario":"User adds and deletes products from the cart","start":1705668051235,"group":1,"content":"","tags":"","end":1705668070627,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});
